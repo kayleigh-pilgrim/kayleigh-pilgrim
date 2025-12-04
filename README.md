@@ -43,6 +43,3 @@ Full CV available on request,
 > *“Helping your brand succeed since 2008.”*
 
 Feel free to fork, star, or reach out if you’d like to collaborate 🤍
-
-
-[![Kayleigh Pilgrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayleigh-pilgrim&hide=prs,contribs&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)

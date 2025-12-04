@@ -1,51 +1,48 @@
-# 👋 Hi, I’m Kayleigh Page
-I’m a **fullstack developer**, **Linux administrator**, **DevOps consultant**, **SEO strategist**, **cybersecurity expert**, and **digital brand builder**.
-
-I create secure, high-performance systems and content platforms that scale; with clean code, fast infrastructure, and a strong focus on usability and SEO.
+# Hey, I'm Kayleigh Pilgrim
+Full-Stack PHP & JS Web Developer ★ Laravel Artisan ★ Linux Admin ★ SEO Expert ★ Eternal Student ★ Coach
 
 
-## 🧠 What I Do
-- 🌐 **Fullstack Development** - Custom apps with Node.js, Next.js, GraphQL, MongoDB, PHP, Laravel & Tailwind
-- 🛠 **DevOps & Infrastructure** - Scalable, secure Linux environments with CI/CD pipelines
-- 🔐 **Cybersecurity** - From hardened servers to secure auth, rate limiting & 2FA
-- 📈 **SEO & Content Architecture** - Technical SEO, sitemaps, dynamic metadata, and fast-loading frontend UX
-- 🚀 **Brand Strategy & Coaching** - Helping creators and professionals define their digital presence
+## Who am I?
+I'm a Full-Stack Web Developer, mostly focussed on Laravel and Vue these days.<br>
+I'm also an expert in Linux, DevOps and SEO.
+
+I have 17 years of experience as a PHP developer and system administrator.
+
+When I was 7, I had an old MS-DOS PC and learned how to write games in QBasic.<br>
+I started writing PHP when I was 15.
+
+In 2008, I started my first job as a web developer, and in 2017 I started freelancing.
+
+When I'm not coding or tweaking servers; I read, study, watch some series, draw, work out, or spend some time hiking.
 
 
-## 🧰 Tech I Work With
-### **Languages & Frameworks**  
-`JavaScript`, `Node.js`, `Next.js`, `PHP`, `Laravel`, `GraphQL`, `Express`
+## How can I help you?
+**Development:** websites, apps and shops<br>
+**Code:** PHP, Laravel, JS, Vue, React, Next.js, Livewire<br>
+**Improvement:** codebases, infrastructure, code problems, moving to Laravel, upgrades, ...<br>
+**Custom themes/plugins:** Wordpress, Drupal, Prestashop<br>
+**Linux:** Web-hosting, mail, VoIP, automation, monitoring, performance tuning, security, datacenter<br>
+**Marketing:** SEO, brand-building, social media
 
-### **DevOps & Backend**  
-`Linux`, `Nginx`, `MariaDB`, `MongoDB`, `Redis`,  `Docker`, `Git`, `Bash`, `Puppet`, `Icinga2`
+Remote freelance / consultancy.<br>
+On-site possible in Belgium.
 
-### **Frontend**  
-`Next.js`, `React`, `Tailwind CSS`, `SWR`, `Quill.js`, `Next-PWA`
+Time zone: UTC+1 (Winter) / UTC+2 (Summer).
 
-### **Security & Performance**  
-`2FA`, `bcrypt`, `Helmet`, `express-rate-limit`, `ModSecurity`, `Fail2Ban`, `JWT`, `CORS`, `CDN`, `Suricata`
+Fluent in English and Dutch.
 
-
-## ✨ Featured Projects
-### 🔧 [**Blogger CMS API & Dashboard**](https://github.com/kayleigh-page/blogger)  
-Custom-built GraphQL API and Mxt.js admin dashboard to manage blog posts, SEO data, portfolio items, and more; with secure login, 2FA, rate limiting, and image uploads.
-
-### 🌍 [**kayleigh.page**](https://kayleigh.page)  
-My personal portfolio site, blog, and service hub; built with Next.js and powered by my CMS API Blogger. Includes dynamic SEO, newsletter signup, testimonials, and CV.
-
-### 📊 **Server Monitoring Platform**  
-In-progress DevOps platform with Next.js frontend, Python agent, and secure Node.js GraphQL API; includes per-server stats, history charts, and email alerts.
+Full CV available on request,
 
 
-## 📬 Get in Touch
+## My website, blog and portfolio:
 
-- 🌐 Website: [kayleigh.page](https://kayleigh.page)
+[kayleighpilgrim.net](https://kayleighpilgrim.net)
 
 ---
 
-> *“Clean code. Secure systems. Real-world results.”*
+> *“Helping your brand succeed since 2008.”*
 
 Feel free to fork, star, or reach out if you’d like to collaborate 🤍
 
 
-[![Kayleigh Page's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayleigh-page&hide=prs,contribs&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Kayleigh Pilgrim's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayleigh-pilgrim&hide=prs,contribs&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,5 +1,5 @@
 # Hey, I'm Kayleigh Pilgrim
-Full-Stack PHP & JS Web Developer ★ Laravel Artisan ★ Linux Consultant ★ Security Expert ★ Eternal Student ★ Coach
+Full-Stack PHP & JS Developer ★ Laravel Artisan ★ Linux Consultant ★ Security Expert ★ Eternal Student ★ Coach
 
 ## My website, blog and portfolio:
 
